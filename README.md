@@ -1,6 +1,6 @@
 # sample microservices using Nginx and Express
 
-Learning how to create micro services using Nginx (as a reverse proxy) + Express (as microservices)
+Learn how to create microservices using Nginx (as a reverse proxy) + Express (as microservices)
 
 ### Setup Instruction
 
