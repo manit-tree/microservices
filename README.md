@@ -6,8 +6,8 @@ Learn how to create microservices using Nginx (as a reverse proxy) + Express (as
 
 1. clone this project
 2. move to microservices directory and run "docker-compose up -d" (to run Nginx as a reverse proxy)
-3. move to microservices/app-1 and run "npm install" (to install express library for app-1)
-4. move to microservices/app-1 and run "npm install" (to install express library for app-2)
+3. move to microservices/app-1 and run "npm install" (to install express library for app-1) then run "npm run test" (to start app-1)
+4. move to microservices/app-1 and run "npm install" (to install express library for app-2) then run "npm run test" (to start app-2)
 
 ### Testing Instruction
 
