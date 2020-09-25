@@ -1,4 +1,4 @@
-# simple microservices using Nginx and Express
+# a simple microservices using Nginx and Express
 
 Learn how to create microservices using Nginx (as a reverse proxy) + Express (as microservices)
 
