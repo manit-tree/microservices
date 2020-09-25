@@ -1,6 +1,8 @@
 # a simple microservices using Nginx & Express
 
-Learn how to create microservices using Nginx (as a reverse proxy) + Express (as microservices)
+A simple project that demonstrate how to create microservices using Nginx (as a reverse proxy) + Express (as microservices)
+
+This project will show you how to use Nginx as a reverse proxy that forward request to each microservices (Express) based on URL request. 
 
 ### Setup Instruction
 
